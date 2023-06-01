@@ -1,1 +1,1 @@
-# Responsitive
+# Responsive
